@@ -1,2 +1,2 @@
 # predicao_tumor_cancer_mama
-Analizando a performance de uma rede neural simples com um modelo de boosting de árvores de decisão para prever quando um tumor de câncer de mama é benígno ou malígno, com os dados normalizados e sem a normalização dos dados.
+Comparando a performance de uma rede neural simples com um modelo de boosting de árvores de decisão, ambos de classificação supervisionada, para prever quando um tumor de câncer de mama é benígno ou malígno em um paciente. Primeiramente comparando sem a normalização dos dados, e depois com os dados normalizados. Visualizando se algum modelo, é ou não é, afetado sem a normalização dos dados.
